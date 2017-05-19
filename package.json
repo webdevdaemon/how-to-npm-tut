@@ -1,6 +1,6 @@
 {
   "name": "@webdevdaemon/how-to-npm-tut",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "how-to-npm commandline tutorial",
   "main": "index.js",
   "author": "webDevDaemon (Charles E. Morgan)",
@@ -10,6 +10,6 @@
   },
   "scripts": {
     "test": "node test.js"
-  }, 
-  "repository" : "https://github.com/webdevdaemon/how-to-npm-tut.git"
+  },
+  "repository": "https://github.com/webdevdaemon/how-to-npm-tut.git"
 }
