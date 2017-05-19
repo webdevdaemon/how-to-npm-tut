@@ -1,6 +1,6 @@
 {
   "name": "@webdevdaemon/how-to-npm-tut",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "how-to-npm commandline tutorial",
   "main": "index.js",
   "author": "webDevDaemon (Charles E. Morgan)",
