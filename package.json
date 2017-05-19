@@ -1,0 +1,17 @@
+{
+  "name": "@webdevdaemon/how-to-npm-tut",
+  "version": "1.0.0",
+  "description": "how-to-npm commandline tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "scripts": {
+    "test": "node test.js"
+  } 
+}
