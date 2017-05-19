@@ -1,4 +1,3 @@
-return function() {
-    console.log('yayer - test.js PASSED');
-    return {testPassed: true};
-}
+(function testr() {
+    console.log('TEST PASSED');                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+}());
